@@ -1,8 +1,10 @@
 # Security-Awareness
 
+"SECURITY AWARENESS IS SECURITY INTELLIGENCE." ~ Randomly thought of qoute
+
 ## Objective
 
-Hi! Things are just getting interesting, sseriously. "SECURITY AWARENESS IS SECURITY INTELLIGENCE." My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, polici
+Hi! Things are just getting interesting, sseriously. My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, policies, politics and soo much more.
 
 ### Skills Learned
 

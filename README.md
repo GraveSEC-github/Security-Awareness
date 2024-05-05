@@ -4,7 +4,7 @@
 
 ## Objective
 
-Hi! Things are just getting interesting, sseriously. My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, policies, politics and soo much more.
+Hi! Things are just getting interesting, sseriously. My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, policies, politics and soo much more. Primarlily, I'd like to tunnel our focus on the most commonly regconized frameworks today, NIST & SANS.
 
 ### Skills Learned
 

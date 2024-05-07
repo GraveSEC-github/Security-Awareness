@@ -15,16 +15,14 @@ Recent reports by <a href="https://www.microsoft.com/en-us/edge/learning-center/
 
 In IBM's most recent report on the <a href="https://www.ibm.com/reports/data-breach/blob/main/README.md">Cost of a Data Breach for 2023</a>, it was revealed that the average financial toll of a data breach reaches a staggering 4.45 million USD. Surprisingly, a significant portion of this sum (around USD 1.44 million) is attributed to detection and escalation expenses. Howeve! The implementation of threat intelligence can provide invaluable insights to security teams, enabling them to identify and respond to potential attacks earlier. By doing so, businesses can potentially decrease detection expenses and minimize or in some cases, prevent, the repercussions of successful breaches, safeguarding both finances and sensitive data.
 
+### Help Prevent Any Breaches
+
+Prevention Walkthrough
+*Ref 1: Network Diagram*
+
 ### Skills Aquired
 
 - 
 - 
 - 
 - 
-
-
-## Walktrough Steps
-
-Example below.
-
-*Ref 1: Network Diagram*

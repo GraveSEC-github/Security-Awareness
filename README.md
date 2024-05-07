@@ -9,7 +9,7 @@ Hi! Things are just getting interesting, sseriously. My goal is to breifly elabo
 
 Understanding security awareness is crucial for protecting your organization from cyber threats. As someone embedded within the core of your company, you possess a pivotal role in its security posture. By familiarizing yourself with common industry attacks and implementing mitigation strategies, you can bolster your cyber hygiene and intelligence.
 
-<a href="https://www.microsoft.com/en-us/edge/learning-center/common-threats-online-security?form=MA13I2/blob/main/README.md">Microsoft</a>, <a href="https://www.ibm.com/blog/announcement/enterprise-security-identity-crisis-x-force-threat-intelligence-index//blob/main/README.md">IBM</a>, <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">LinkedIn</a> and <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Cloudflare</a> reports reveal that human errors and lack of knowledge are responsible for over 90% of successful cyber attacks, including phishing, social engineering and creditial theft. This emphasizes the significant impact individuals have on organizational security. Enhancing your security awareness is essential for mitigating potential risks and threats to your organization, as evidenced by the study's findings.
+Recent <a href="https://www.microsoft.com/en-us/edge/learning-center/common-threats-online-security?form=MA13I2/blob/main/README.md">Microsoft</a>, <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">LinkedIn</a> and <a href="https://github.com/GraveSEC-github/Active-Directory-Lab/blob/main/README.md">Cloudflare</a> reports reveal that human errors and lack of knowledge are responsible for over 90% of successful cyber attacks, including phishing, social engineering and creditial theft. This emphasizes the significant impact individuals have on organizational security. Enhancing your security awareness is essential for mitigating potential risks and threats to your organization, as evidenced by the study's findings.
 
 ### Average Cost of a Data Breach
 
@@ -17,21 +17,13 @@ In IBM's recent report on the <a href="https://www.ibm.com/reports/data-breach/b
 
 ### Skills Aquired
 
-- NIST core functions Identify, Protect, Detect, Respond, and Recover.
-- Framework Implementation Tiers for Organizations (Partial, Risk Informed, Repeatable, and Adaptive)
-- SANS Critical Security Controls framework categories
-- Help organizations mitigate the most common and damaging cyber threats with best practices.
+- 
+- 
+- 
+- 
 
-
-### Tools Used
-
--
--
 
 ## Walktrough Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 

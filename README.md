@@ -3,13 +3,13 @@
 
 ## Objective
 
-Hi! Things are just getting interesting, sseriously. My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, policies, politics and soo much more. Primarlily, I'd like to tunnel our focus on the most commonly regconized frameworks today, NIST & SANS.
+Hi! Things are just getting interesting, sseriously. My goal is to breifly elaborate the importance of having a professional understanding of security risks, vulnerabilities, policies, politics and soo much more. 
 
 ### What is Security Awareness & Why does it Matter?
 
 Understanding security awareness is crucial for protecting your organization from cyber threats. As someone embedded within the core of your company, you possess a pivotal role in its security posture. By familiarizing yourself with common industry attacks and implementing mitigation strategies, you can bolster your cyber hygiene and intelligence.
 
-Recent reports by <a href="https://www.microsoft.com/en-us/edge/learning-center/common-threats-online-security?form=MA13I2/blob/main/README.md">Microsoft</a>, <a href="https://blog.cloudflare.com/2023-phishing-report/blob/main/README.md">Cloudflare</a> and <a href="https://www.linkedin.com/pulse/role-human-error-successful-cyber-security//blob/main/README.md">Quarks</a> on LinkedIn highlight that human errors, lack of attention to detail and knowledge are responsible for just about 90% of successful cyber attacks, including creditial theft, and social engineering such as phishing. This emphasizes the significant impact individuals have on organizational security. Enhancing your security awareness is essential for mitigating potential risks and threats to your organization, as evidenced by the study's findings.
+Recent reports by <a href="https://www.microsoft.com/en-us/edge/learning-center/common-threats-online-security?form=MA13I2/blob/main/README.md">Microsoft</a>, <a href="https://www.cloudflare.com/learning/email-security/what-is-email-security">Cloudflare</a> and <a href="https://www.linkedin.com/pulse/role-human-error-successful-cyber-security/">Quarks</a> on LinkedIn highlight that human errors, lack of attention to detail and knowledge are responsible for just about 90% of successful cyber attacks, including creditial theft, and social engineering such as phishing. This emphasizes the significant impact individuals have on organizational security. Enhancing your security awareness is essential for mitigating potential risks and threats to your organization, as evidenced by the study's findings.
 
 ### Average Cost of a Data Breach
 
